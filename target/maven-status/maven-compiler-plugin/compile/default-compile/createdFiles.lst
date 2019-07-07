@@ -1,0 +1,13 @@
+formatter\businesslogic\IFormatter.class
+formatter\enums\Numbers.class
+formatter\output\Display.class
+formatter\businesslogic\CenterFormatter.class
+formatter\exceptions\CharactersCountLessThanOneException.class
+formatter\FormatterApp.class
+formatter\constants\Message.class
+formatter\businesslogic\RightFormatter.class
+formatter\enums\Positions.class
+formatter\factories\FormatterFactory.class
+formatter\models\UserInput.class
+formatter\businesslogic\LeftFormatter.class
+formatter\converters\UserInputConverter.class

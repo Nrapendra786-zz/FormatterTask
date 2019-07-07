@@ -1,0 +1,13 @@
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\FormatterApp.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\businesslogic\LeftFormatter.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\constants\Message.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\businesslogic\IFormatter.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\converters\UserInputConverter.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\exceptions\CharactersCountLessThanOneException.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\factories\FormatterFactory.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\enums\Numbers.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\businesslogic\RightFormatter.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\models\UserInput.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\enums\Positions.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\output\Display.java
+C:\Users\triva\IdeaProjects\CGITask\src\main\java\formatter\businesslogic\CenterFormatter.java
